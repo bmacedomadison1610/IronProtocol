@@ -93,8 +93,6 @@ Palavras-chave (ASO)
 
 hipertrofia, musculação, academia, treino, dieta, fitness, ganho de massa, emagrecimento, nutrição, controle alimentar, personal trainer, treino de musculação, evolução física, fitness tracker, bodybuilding, treino diário
 
-Política de Privacidade (texto resumido)
-
 Política de Privacidade – Iron Protocol
 
 O Iron Protocol coleta apenas as informações necessárias para o funcionamento do aplicativo, incluindo dados de treinos, metas, alimentação e progresso físico registrados pelo usuário.
