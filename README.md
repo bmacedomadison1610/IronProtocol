@@ -1,10 +1,16 @@
-<img width="1024" height="500" alt="ChatGPT Image11 6 de jun  de 2026, 13_30_00" src="https://github.com/user-attachments/assets/b564ad81-af6a-45c7-9ed4-d6ad2387ab13" />
-<img width="1080" height="1920" alt="5" src="https://github.com/user-attachments/assets/669f654a-e0e4-4dae-9762-ceb08ba18580" />
-<img width="1080" height="1920" alt="4" src="https://github.com/user-attachments/assets/a3ba2636-339a-4db7-a6ad-98a959470684" />
-<img width="1080" height="1920" alt="3" src="https://github.com/user-attachments/assets/73ea6c50-af37-487b-a521-505c77c553f4" />
-<img width="1080" height="1920" alt="2" src="https://github.com/user-attachments/assets/9d226990-a024-4319-a986-32203d97e8a8" />
-<img width="1080" height="1920" alt="1" src="https://github.com/user-attachments/assets/c15bbcfe-c768-4cef-a027-43b067c2c5f1" />
-<img width="512" height="512" alt="ChatGPT Image 6 de jun  de 20126, 13_30_00" src="https://github.com/user-attachments/assets/83026337-cf11-467c-8444-9ddfb3d3f1ee" />
+<img width="941" height="1672" alt="ChatGPT Image 6 de jun  de 2026, 13_30_00" src="https://github.com/user-attachments/assets/1be6d8c6-8392-4bca-9281-6d67aecb2d7b" />
+
+<img width="353" height="776" alt="image" src="https://github.com/user-attachments/assets/ac59355e-59aa-49c2-b065-16ed1b146e0f" />
+
+<img width="352" height="776" alt="image" src="https://github.com/user-attachments/assets/bcb96df5-889d-46f3-a88e-311b309a72e6" />
+
+<img width="355" height="778" alt="image" src="https://github.com/user-attachments/assets/a908fe27-23e6-4baa-8bca-03784cba5335" />
+
+<img width="357" height="778" alt="image" src="https://github.com/user-attachments/assets/b95bb20a-e944-43a7-b3d4-7e398c33accc" />
+
+<img width="358" height="776" alt="image" src="https://github.com/user-attachments/assets/6f301c78-9dfd-44a0-961d-645c205004fa" />
+
+
 IRON PROTOCOL
 
 Disciplina. Execução. Resultados.
